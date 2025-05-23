@@ -1,12 +1,5 @@
 [
   {
-    "id": 1,
-    "description": "Finish the CLI task manager",
-    "status": "todo",
-    "createdAt": "2025-05-21T16:43:35.268Z",
-    "updatedAt": "2025-05-21T16:43:35.268Z"
-  },
-  {
     "id": 2,
     "description": "Finish the CLI task manager",
     "status": "todo",
@@ -19,5 +12,19 @@
     "status": "todo",
     "createdAt": "2025-05-21T16:59:35.752Z",
     "updatedAt": "2025-05-21T16:59:35.752Z"
+  },
+  {
+    "id": 4,
+    "description": "Test task status update",
+    "status": "todo",
+    "createdAt": "2025-05-23T15:40:31.519Z",
+    "updatedAt": "2025-05-23T15:40:31.519Z"
+  },
+  {
+    "id": 5,
+    "description": "Fix bugs in project",
+    "status": "todo",
+    "createdAt": "2025-05-23T15:52:09.290Z",
+    "updatedAt": "2025-05-23T15:52:09.290Z"
   }
 ]
